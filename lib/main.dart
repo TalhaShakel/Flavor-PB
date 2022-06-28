@@ -4,11 +4,9 @@ import 'package:fine_resturant/page.dart';
 import 'package:fine_resturant/page2.dart';
 import 'package:flutter/material.dart';
 // import 'package:google_maps_widget/google_maps_widget.dart';
-import 'package:easy_splash_screen/easy_splash_screen.dart';
 
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/get_navigation.dart';
-import 'package:splash_screen_view/SplashScreenView.dart';
 
 void main() {
   runApp(const MyApp());
